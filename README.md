@@ -1,4 +1,4 @@
-# Todo-list
-## A simple interactive todo-list using HTML,CSS & JS
+# Task-Bit
+## A simple interactive Task Manager using HTML,CSS & JS
 
 Link: 
